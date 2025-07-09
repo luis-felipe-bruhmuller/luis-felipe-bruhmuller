@@ -13,7 +13,7 @@ Me chamo Luís felipe e estou atualmente cursando desenvolvimento de sistemas no
     </td>
     <td>
       <b>HTML</b>
-      <br>
+      <br><br>
       <code>█░░░░░░░░░░░░</code> 05%
     </td>
   </tr>
@@ -23,7 +23,7 @@ Me chamo Luís felipe e estou atualmente cursando desenvolvimento de sistemas no
     </td>
     <td>
       <b>CSS</b>
-      <br>
+      <br><br>
       <code>█░░░░░░░░░░░░</code> 05%
     </td>
   </tr>
@@ -33,7 +33,7 @@ Me chamo Luís felipe e estou atualmente cursando desenvolvimento de sistemas no
     </td>
     <td>
       <b>Python</b>
-      <br>
+      <br><br>
       <code>█░░░░░░░░░░░░</code> 05%
     </td>
   </tr>

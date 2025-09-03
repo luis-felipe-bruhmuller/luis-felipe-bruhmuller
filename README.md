@@ -34,7 +34,7 @@ Me chamo Luís felipe e estou atualmente cursando desenvolvimento de sistemas no
     <td>
       <b>Python</b>
       <br><br>
-      <code>█░░░░░░░░░░░░</code> 05%
+      <code>███████░░░░░░</code> 50%
     </td>
   </tr>
     <tr>
